@@ -29,12 +29,10 @@ namespace SoftUniClone.Web
 
         public IConfiguration Configuration { get; }
 
-        // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
             services.Configure<CookiePolicyOptions>(options =>
             {
-                // This lambda determines whether user consent for non-essential cookies is needed for a given request.
                 options.CheckConsentNeeded = context => true;
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
@@ -49,24 +47,7 @@ namespace SoftUniClone.Web
                 .AddDefaultTokenProviders()
                 .AddEntityFrameworkStores<SoftUniCloneContext>();
 
-            /*
-            services.AddAuthentication()
-                .AddFacebook(options =>
-                {
-                    options.AppId = this.Configuration.GetSection("Facebook:AppId").Value;
-                    options.AppSecret = this.Configuration.GetSection("Facebook:AppSecret").Value;
-                })
-                .AddGoogle(options =>
-                {
-                    options.ClientId = this.Configuration.GetSection("Google:ClientId").Value;
-                    options.ClientSecret = this.Configuration.GetSection("Google:ClientSecret").Value;
-                })
-                .AddGitHub(options =>
-                {
-                    options.ClientId = this.Configuration.GetSection("GitHub:ClientId").Value;
-                    options.ClientSecret = this.Configuration.GetSection("GitHub:ClientSecret").Value;
-                });
-                */
+           
             services.Configure<IdentityOptions>(options =>
             {
                 options.Password = new PasswordOptions()
@@ -79,7 +60,6 @@ namespace SoftUniClone.Web
                     RequireNonAlphanumeric = false
                 };
 
-                // options.SignIn.RequireConfirmedEmail = true;
             });
 
             services.AddSingleton<IEmailSender, SendGridEmailSender>();
@@ -94,7 +74,6 @@ namespace SoftUniClone.Web
                 .SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(
             IApplicationBuilder app,
             IHostingEnvironment env)
