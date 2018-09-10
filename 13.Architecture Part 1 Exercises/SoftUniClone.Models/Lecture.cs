@@ -29,7 +29,5 @@ namespace SoftUniClone.Models
         public CourseInstance Course { get; set; }
 
         public ICollection<Resource> Resources { get; set; }
-
-        // TODO: Homework descriptor
     }
 }

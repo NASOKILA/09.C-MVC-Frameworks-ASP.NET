@@ -5,7 +5,6 @@ using SoftUniClone.Models;
 
 namespace SoftUniClone.Web.Common
 {
-    //we use this class to add the roles
     public static class ApplicationBuilderAuthExtensions
     {
         private const string DefaultAdminPassword = "admin123";
