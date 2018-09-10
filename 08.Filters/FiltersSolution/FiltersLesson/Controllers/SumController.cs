@@ -18,7 +18,7 @@ namespace FiltersLesson.Controllers
         }
 
         [HttpGet]
-        [Route("/Sum")]  //We specify the route for this
+        [Route("/Sum")]  
         public IActionResult Index() {
 
             return View();
@@ -50,36 +50,5 @@ namespace FiltersLesson.Controllers
             ViewData["result"] = this.sumProvider.Sum;
             return View("Index");
         }
-        
-
-        //CUSTOM FILTERS CREATION: LOOK IN Filter Folder
-
-    /*
-        //this will run right after the constructor, before any action
-        public override void OnActionExecuting(ActionExecutingContext context)
-        {
-
-            //we have access to everything about the request here
-            string displayName = context.ActionDescriptor.DisplayName; //action and controller name
-            string method = context.HttpContext.Request.Method; //method
-
-            this.loggingInfoService.Messages.Add($"Executing {displayName} with method {method}.");
-            base.OnActionExecuting(context);
-        }
-
-
-        //Runs After An ACtion
-        public override void OnActionExecuted(ActionExecutedContext context)
-        {
-
-            string displayName = context.ActionDescriptor.DisplayName; //action and controller name
-            string method = context.HttpContext.Request.Method; //method
-
-            this.loggingInfoService.Messages.Add($"Executed {displayName} with method {method}.");
-            base.OnActionExecuted(context);
-        }
-
-    */
-
     }
 }

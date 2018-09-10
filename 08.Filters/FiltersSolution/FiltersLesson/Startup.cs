@@ -23,37 +23,26 @@ namespace FiltersLesson
 
         public IConfiguration Configuration { get; }
 
-        // This method gets called by the runtime. Use this method to add services to the container.
-        public void ConfigureServices(IServiceCollection services)
+         public void ConfigureServices(IServiceCollection services)
         {
             services.Configure<CookiePolicyOptions>(options =>
             {
-                // This lambda determines whether user consent for non-essential cookies is needed for a given request.
-                options.CheckConsentNeeded = context => true;
+               options.CheckConsentNeeded = context => true;
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
-
-
-            //we need this service to pass it  to the filter when we add it
             var loggingInfoService = new LoggingInfoService();
 
-
-            //We add the new service that we created and now we can inject it true the construktor of any controller
             services.AddSingleton<SumProvider>();
-            services.AddSingleton<LoggingInfoService>(loggingInfoService);  // we add the service here and when we add the filter itself  !!!
+            services.AddSingleton<LoggingInfoService>(loggingInfoService); 
 
-
-
-            //WE CAN REGISTER THE FILTERS HERE :
             services
                 .AddMvc(options => {
-                    options.Filters.Add(new LoggingFilter(loggingInfoService));  // THESE ARE GLOBAL FILTERS.
+                    options.Filters.Add(new LoggingFilter(loggingInfoService));  
                 })
                 .SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             if (env.IsDevelopment())
