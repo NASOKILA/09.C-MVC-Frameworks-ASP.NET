@@ -1,0 +1,28 @@
+C:\Users\Yordan\Desktop\SoftUniClone\SoftUniClone.Data\bin\Debug\netcoreapp2.1\SoftUniClone.Data.deps.json
+C:\Users\Yordan\Desktop\SoftUniClone\SoftUniClone.Data\bin\Debug\netcoreapp2.1\SoftUniClone.Data.dll
+C:\Users\Yordan\Desktop\SoftUniClone\SoftUniClone.Data\obj\Debug\netcoreapp2.1\SoftUniClone.Data.csproj.CoreCompileInputs.cache
+C:\Users\Yordan\Desktop\SoftUniClone\SoftUniClone.Data\obj\Debug\netcoreapp2.1\SoftUniClone.Data.AssemblyInfoInputs.cache
+C:\Users\Yordan\Desktop\SoftUniClone\SoftUniClone.Data\obj\Debug\netcoreapp2.1\SoftUniClone.Data.AssemblyInfo.cs
+C:\Users\Yordan\Desktop\SoftUniClone\SoftUniClone.Data\obj\Debug\netcoreapp2.1\SoftUniClone.Data.csprojAssemblyReference.cache
+C:\Users\Yordan\Desktop\SoftUniClone\SoftUniClone.Data\bin\Debug\netcoreapp2.1\SoftUniClone.Data.runtimeconfig.json
+C:\Users\Yordan\Desktop\SoftUniClone\SoftUniClone.Data\bin\Debug\netcoreapp2.1\SoftUniClone.Data.runtimeconfig.dev.json
+C:\Users\Yordan\Desktop\SoftUniClone\SoftUniClone.Data\bin\Debug\netcoreapp2.1\SoftUniClone.Data.pdb
+C:\Users\Yordan\Desktop\SoftUniClone\SoftUniClone.Data\obj\Debug\netcoreapp2.1\SoftUniClone.Data.dll
+C:\Users\Yordan\Desktop\SoftUniClone\SoftUniClone.Data\obj\Debug\netcoreapp2.1\SoftUniClone.Data.pdb
+C:\Users\Yordan\Desktop\SoftUniClone\SoftUniClone.Data\bin\Debug\netcoreapp2.1\SoftUniClone.Models.dll
+C:\Users\Yordan\Desktop\SoftUniClone\SoftUniClone.Data\bin\Debug\netcoreapp2.1\SoftUniClone.Models.pdb
+C:\Users\Yordan\Desktop\SoftUniClone\SoftUniClone.Data\obj\Debug\netcoreapp2.1\SoftUniClone.Data.csproj.CopyComplete
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\13.Architecture Part 1 Exercises\SoftUniClone.Data\bin\Debug\netcoreapp2.1\SoftUniClone.Data.deps.json
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\13.Architecture Part 1 Exercises\SoftUniClone.Data\bin\Debug\netcoreapp2.1\SoftUniClone.Data.runtimeconfig.json
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\13.Architecture Part 1 Exercises\SoftUniClone.Data\bin\Debug\netcoreapp2.1\SoftUniClone.Data.runtimeconfig.dev.json
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\13.Architecture Part 1 Exercises\SoftUniClone.Data\bin\Debug\netcoreapp2.1\SoftUniClone.Data.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\13.Architecture Part 1 Exercises\SoftUniClone.Data\bin\Debug\netcoreapp2.1\SoftUniClone.Data.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\13.Architecture Part 1 Exercises\SoftUniClone.Data\bin\Debug\netcoreapp2.1\SoftUniClone.Models.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\13.Architecture Part 1 Exercises\SoftUniClone.Data\bin\Debug\netcoreapp2.1\SoftUniClone.Models.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\13.Architecture Part 1 Exercises\SoftUniClone.Data\obj\Debug\netcoreapp2.1\SoftUniClone.Data.csprojAssemblyReference.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\13.Architecture Part 1 Exercises\SoftUniClone.Data\obj\Debug\netcoreapp2.1\SoftUniClone.Data.csproj.CoreCompileInputs.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\13.Architecture Part 1 Exercises\SoftUniClone.Data\obj\Debug\netcoreapp2.1\SoftUniClone.Data.AssemblyInfoInputs.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\13.Architecture Part 1 Exercises\SoftUniClone.Data\obj\Debug\netcoreapp2.1\SoftUniClone.Data.AssemblyInfo.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\13.Architecture Part 1 Exercises\SoftUniClone.Data\obj\Debug\netcoreapp2.1\SoftUniClone.Data.csproj.CopyComplete
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\13.Architecture Part 1 Exercises\SoftUniClone.Data\obj\Debug\netcoreapp2.1\SoftUniClone.Data.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\13.Architecture Part 1 Exercises\SoftUniClone.Data\obj\Debug\netcoreapp2.1\SoftUniClone.Data.pdb
