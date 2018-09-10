@@ -29,8 +29,6 @@
             return View();
         }
         
-        //We can change the route of a given action
-        //We can have many routs for on action
         [Route("Home/ContactNasko")]
         [Route("Home/NaskoContact")]
         [Route("Home/ContactNaskoContact")]
