@@ -1,0 +1,9 @@
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\12.Architecture Part 1\SoftUniClone\SoftUniClone.Models\bin\Debug\netcoreapp2.1\SoftUniClone.Models.deps.json
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\12.Architecture Part 1\SoftUniClone\SoftUniClone.Models\bin\Debug\netcoreapp2.1\SoftUniClone.Models.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\12.Architecture Part 1\SoftUniClone\SoftUniClone.Models\bin\Debug\netcoreapp2.1\SoftUniClone.Models.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\12.Architecture Part 1\SoftUniClone\SoftUniClone.Models\obj\Debug\netcoreapp2.1\SoftUniClone.Models.csprojAssemblyReference.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\12.Architecture Part 1\SoftUniClone\SoftUniClone.Models\obj\Debug\netcoreapp2.1\SoftUniClone.Models.csproj.CoreCompileInputs.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\12.Architecture Part 1\SoftUniClone\SoftUniClone.Models\obj\Debug\netcoreapp2.1\SoftUniClone.Models.AssemblyInfoInputs.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\12.Architecture Part 1\SoftUniClone\SoftUniClone.Models\obj\Debug\netcoreapp2.1\SoftUniClone.Models.AssemblyInfo.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\12.Architecture Part 1\SoftUniClone\SoftUniClone.Models\obj\Debug\netcoreapp2.1\SoftUniClone.Models.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\12.Architecture Part 1\SoftUniClone\SoftUniClone.Models\obj\Debug\netcoreapp2.1\SoftUniClone.Models.pdb
