@@ -1,5 +1,4 @@
-﻿
-namespace RazorPagesArchitecture.Pages.Books
+﻿namespace RazorPagesArchitecture.Pages.Books
 {
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.RazorPages;

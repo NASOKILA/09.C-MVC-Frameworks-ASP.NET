@@ -20,15 +20,11 @@ namespace RazorPagesArchitecture.Pages
         
         public void OnPostSumNumbers(string NumberOne, string NumberTwo) {
             
-            this.Sum = this.FirstNumber + this.SecondNumber;
-            
-            //We dont have to use the ViewData[""], insted we can use the Model itself in the View !!!
+            this.Sum = this.FirstNumber + this.SecondNumber;   
         }
 
         public void OnPostIncrementSum() {
-            //It does not work tht easy we need to save the current sum somewhrere, in a separate class
             this.Sum++;
         }
-
     }
 }
