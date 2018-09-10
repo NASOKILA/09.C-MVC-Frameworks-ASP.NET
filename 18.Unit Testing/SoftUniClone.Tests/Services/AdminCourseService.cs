@@ -21,13 +21,10 @@ namespace SoftUniClone.Tests.Services
         [TestInitialize]
         public void BeforeEachTest()
         {
-            //we get the context from this mock class that we just created.
             this.DbContext = MockDbContext.GetContext();
             
-            //THE MAPPER IS ALREADY INITILIZED IN THE PREVIOUS TEST
             this.Mapper = AutoMapper.Mapper.Instance;
 
-            //var mapper = new IMapper();
             this.Service = new AdminCoursesService(this.DbContext, this.Mapper);
         }
         
@@ -35,19 +32,16 @@ namespace SoftUniClone.Tests.Services
         public void AfterEachTest()
         {}
         
-        [TestMethod] //name        pre condition    post condition
+        [TestMethod] 
         public async Task GetAllCourses_WithFewCourses_ShouldReturnAll()
         {
-            //Dobavqme danni v bazata, posle shte q testvame sus metoda ot servica.
             this.DbContext.Courses.Add(new Models.Course() { Id = 1, Name = "My Course" });
             this.DbContext.Courses.Add(new Models.Course() { Id = 2, Name = "My Course 2" });
             this.DbContext.Courses.Add(new Models.Course() { Id = 3, Name = "My Course 3" });
             this.DbContext.SaveChanges();
 
-            //Act - do something
             var courses = await this.Service.GetCoursesAsync();
 
-            //Assert - check solution
             Assert.IsNotNull(courses);
             Assert.AreEqual(courses.Count(), 3);
         }
@@ -57,14 +51,11 @@ namespace SoftUniClone.Tests.Services
         {
             this.DbContext.SaveChanges();
 
-            //Act - do something
             var courses = await this.Service.GetCoursesAsync();
 
-            //Assert - check solution
             Assert.IsNotNull(courses);
             Assert.AreEqual(courses.Count(), 0);
         }
-
     }
 }
 

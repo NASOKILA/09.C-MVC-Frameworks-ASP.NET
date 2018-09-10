@@ -8,9 +8,6 @@ namespace SoftUniClone.Web.Controllers
 {
     public class HomeController : Controller
     {
-        //we have to make the controller understand deferen languages
-        //There is a htmlLocalizer  which does not escape strings but StringLocalizer escapes strings.
-
         private readonly IStringLocalizer<HomeController> localizer;
 
         public HomeController()
@@ -20,11 +17,6 @@ namespace SoftUniClone.Web.Controllers
         
         public IActionResult Index()
         {
-
-            //to use the localizator is easy firt we add stuff to it it has key and value
-           // string title = this.localizer["Something"];
-
-
             return View();
         }
 

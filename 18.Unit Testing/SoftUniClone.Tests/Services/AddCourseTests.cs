@@ -40,16 +40,12 @@ namespace SoftUniClone.Tests.Services
                 Slug = "new-course-name"
             };
 
-
             await this.Service.AddCourseAsync(courseModel);
 
-            //check count
             Assert.AreEqual(1, this.DbContext.Courses.Count());
 
-            //check name
             Assert.AreEqual(courseModel.Name, this.DbContext.Courses.First().Name);
             
-            //check slug
             Assert.AreEqual(courseModel.Slug, this.DbContext.Courses.First().Slug);
 
             await Assert.ThrowsExceptionAsync<ArgumentNullException>(() => this.Service.AddCourseAsync(null));

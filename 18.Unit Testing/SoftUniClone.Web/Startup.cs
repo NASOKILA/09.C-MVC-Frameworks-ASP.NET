@@ -29,34 +29,22 @@ namespace SoftUniClone.Web
 
         public IConfiguration Configuration { get; }
 
-        // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
-            //we can add a folder of resourses to use it
             services.AddLocalization(options => options.ResourcesPath = "Resources");
 
-            //we confidure the localizators
             services.Configure<RequestLocalizationOptions>(options =>
             {
-                //we pass the languages that we want to use
                 options.AddSupportedCultures("en", "bg");
 
-                //we add the cultires to
                 options.AddSupportedUICultures("en", "bg");
             });
 
-
-            //dobavqme kashing na danni.
             services.AddResponseCaching();
             services.AddResponseCompression();
 
-
-
-
             services.Configure<CookiePolicyOptions>(options =>
             {
-                // This lambda determines whether user consent for non-essential cookies is needed for a given request.
                 options.CheckConsentNeeded = context => true;
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
@@ -71,24 +59,6 @@ namespace SoftUniClone.Web
                 .AddDefaultTokenProviders()
                 .AddEntityFrameworkStores<SoftUniCloneContext>();
 
-            /*
-            services.AddAuthentication()
-                .AddFacebook(options =>
-                {
-                    options.AppId = this.Configuration.GetSection("Facebook:AppId").Value;
-                    options.AppSecret = this.Configuration.GetSection("Facebook:AppSecret").Value;
-                })
-                .AddGoogle(options =>
-                {
-                    options.ClientId = this.Configuration.GetSection("Google:ClientId").Value;
-                    options.ClientSecret = this.Configuration.GetSection("Google:ClientSecret").Value;
-                })
-                .AddGitHub(options =>
-                {
-                    options.ClientId = this.Configuration.GetSection("GitHub:ClientId").Value;
-                    options.ClientSecret = this.Configuration.GetSection("GitHub:ClientSecret").Value;
-                });
-                */
             services.Configure<IdentityOptions>(options =>
             {
                 options.Password = new PasswordOptions()
@@ -101,7 +71,6 @@ namespace SoftUniClone.Web
                     RequireNonAlphanumeric = false
                 };
 
-                // options.SignIn.RequireConfirmedEmail = true;
             });
 
             services.AddSingleton<IEmailSender, SendGridEmailSender>();
@@ -117,7 +86,6 @@ namespace SoftUniClone.Web
                 .SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(
             IApplicationBuilder app,
             IHostingEnvironment env)
@@ -134,13 +102,10 @@ namespace SoftUniClone.Web
             }
 
 
-            //pozvilqva ni da NE izvikvame edin action ili view mnogo na broi puti. Raboti za stranici i za actioni.
 
-            app.UseResponseCaching();  // pozvolqvame keshirane
-            app.UseResponseCompression(); //Kompresira vseki edin response
+            app.UseResponseCaching();  
+            app.UseResponseCompression(); 
 
-
-            //vkluchvame lokaclizatora
             app.UseRequestLocalization();
 
 

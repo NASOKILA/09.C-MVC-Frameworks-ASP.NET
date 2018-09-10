@@ -7,10 +7,6 @@ namespace SoftUniClone.Tests.Controllers.HomeControllerTests
     {
         public void Index_ReturnsTheAppropriateView()
         {
-            //var controller = new HomeController();
-
-            //var result = controller.About();
-            
         }
     }
 }
