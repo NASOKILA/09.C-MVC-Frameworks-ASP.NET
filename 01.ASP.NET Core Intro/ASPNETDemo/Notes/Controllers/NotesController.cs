@@ -36,6 +36,5 @@
 
             return this.RedirectToAction("/all");
         }
-
     }
 }

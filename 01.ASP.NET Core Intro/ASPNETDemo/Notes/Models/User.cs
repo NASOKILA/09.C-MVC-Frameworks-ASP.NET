@@ -5,7 +5,6 @@ namespace Notes.Models
 {
     public class User
     {
-
         public User()
         {
             this.Notes = new List<Note>();

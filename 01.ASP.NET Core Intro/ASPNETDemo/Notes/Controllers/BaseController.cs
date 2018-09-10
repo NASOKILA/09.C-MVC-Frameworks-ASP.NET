@@ -11,6 +11,5 @@ namespace Notes.Controllers
         {
             this.Context = new NotesContext(); 
         }
-
     }
 }

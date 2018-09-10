@@ -39,6 +39,5 @@
 
             base.OnModelCreating(modelBuilder);
         }
-
     }
 }

@@ -11,7 +11,6 @@ namespace PagesDemo.Pages
     {
         public void OnGet()
         {
-
         }
     }
 }

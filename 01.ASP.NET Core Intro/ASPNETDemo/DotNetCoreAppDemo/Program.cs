@@ -17,7 +17,6 @@ namespace DotNetCoreAppDemo
             CreateWebHostBuilder(args).Build().Run();
         }
 
-        //web server
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>();
