@@ -1,0 +1,17 @@
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Models\bin\Release\netcoreapp2.1\SoftUniClone.Models.deps.json
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Models\bin\Release\netcoreapp2.1\SoftUniClone.Models.dll
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Models\bin\Release\netcoreapp2.1\SoftUniClone.Models.pdb
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Models\obj\Release\netcoreapp2.1\SoftUniClone.Models.csproj.CoreCompileInputs.cache
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Models\obj\Release\netcoreapp2.1\SoftUniClone.Models.AssemblyInfoInputs.cache
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Models\obj\Release\netcoreapp2.1\SoftUniClone.Models.AssemblyInfo.cs
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Models\obj\Release\netcoreapp2.1\SoftUniClone.Models.dll
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Models\obj\Release\netcoreapp2.1\SoftUniClone.Models.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\19.Unit Testing Exercises\SoftUniClone.Models\bin\Release\netcoreapp2.1\SoftUniClone.Models.deps.json
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\19.Unit Testing Exercises\SoftUniClone.Models\bin\Release\netcoreapp2.1\SoftUniClone.Models.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\19.Unit Testing Exercises\SoftUniClone.Models\bin\Release\netcoreapp2.1\SoftUniClone.Models.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\19.Unit Testing Exercises\SoftUniClone.Models\obj\Release\netcoreapp2.1\SoftUniClone.Models.csprojAssemblyReference.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\19.Unit Testing Exercises\SoftUniClone.Models\obj\Release\netcoreapp2.1\SoftUniClone.Models.csproj.CoreCompileInputs.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\19.Unit Testing Exercises\SoftUniClone.Models\obj\Release\netcoreapp2.1\SoftUniClone.Models.AssemblyInfoInputs.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\19.Unit Testing Exercises\SoftUniClone.Models\obj\Release\netcoreapp2.1\SoftUniClone.Models.AssemblyInfo.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\19.Unit Testing Exercises\SoftUniClone.Models\obj\Release\netcoreapp2.1\SoftUniClone.Models.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\19.Unit Testing Exercises\SoftUniClone.Models\obj\Release\netcoreapp2.1\SoftUniClone.Models.pdb
