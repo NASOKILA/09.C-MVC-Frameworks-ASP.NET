@@ -1,0 +1,8 @@
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Models\bin\Release\netcoreapp2.1\SoftUniClone.Models.deps.json
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Models\bin\Release\netcoreapp2.1\SoftUniClone.Models.dll
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Models\bin\Release\netcoreapp2.1\SoftUniClone.Models.pdb
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Models\obj\Release\netcoreapp2.1\SoftUniClone.Models.csproj.CoreCompileInputs.cache
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Models\obj\Release\netcoreapp2.1\SoftUniClone.Models.AssemblyInfoInputs.cache
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Models\obj\Release\netcoreapp2.1\SoftUniClone.Models.AssemblyInfo.cs
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Models\obj\Release\netcoreapp2.1\SoftUniClone.Models.dll
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Models\obj\Release\netcoreapp2.1\SoftUniClone.Models.pdb

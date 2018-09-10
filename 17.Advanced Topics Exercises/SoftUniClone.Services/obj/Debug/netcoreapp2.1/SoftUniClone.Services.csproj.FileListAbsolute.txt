@@ -1,0 +1,48 @@
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\bin\Debug\netcoreapp2.1\SoftUniClone.Services.deps.json
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\bin\Debug\netcoreapp2.1\SoftUniClone.Services.dll
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\bin\Debug\netcoreapp2.1\SoftUniClone.Services.pdb
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\bin\Debug\netcoreapp2.1\SoftUniClone.Common.dll
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\bin\Debug\netcoreapp2.1\SoftUniClone.Data.dll
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\bin\Debug\netcoreapp2.1\SoftUniClone.Models.dll
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\bin\Debug\netcoreapp2.1\SoftUniClone.Common.pdb
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\bin\Debug\netcoreapp2.1\SoftUniClone.Data.pdb
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\bin\Debug\netcoreapp2.1\SoftUniClone.Models.pdb
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\obj\Debug\netcoreapp2.1\SoftUniClone.Services.csprojAssemblyReference.cache
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\obj\Debug\netcoreapp2.1\SoftUniClone.Services.csproj.CoreCompileInputs.cache
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\obj\Debug\netcoreapp2.1\SoftUniClone.Services.AssemblyInfoInputs.cache
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\obj\Debug\netcoreapp2.1\SoftUniClone.Services.AssemblyInfo.cs
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\obj\Debug\netcoreapp2.1\SoftUniClone.Services.csproj.CopyComplete
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\obj\Debug\netcoreapp2.1\SoftUniClone.Services.dll
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\obj\Debug\netcoreapp2.1\SoftUniClone.Services.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\15.Architecture Part 2 Exercises\SoftUniClone.Services\bin\Debug\netcoreapp2.1\SoftUniClone.Services.deps.json
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\15.Architecture Part 2 Exercises\SoftUniClone.Services\bin\Debug\netcoreapp2.1\SoftUniClone.Services.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\15.Architecture Part 2 Exercises\SoftUniClone.Services\bin\Debug\netcoreapp2.1\SoftUniClone.Services.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\15.Architecture Part 2 Exercises\SoftUniClone.Services\bin\Debug\netcoreapp2.1\SoftUniClone.Common.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\15.Architecture Part 2 Exercises\SoftUniClone.Services\bin\Debug\netcoreapp2.1\SoftUniClone.Data.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\15.Architecture Part 2 Exercises\SoftUniClone.Services\bin\Debug\netcoreapp2.1\SoftUniClone.Models.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\15.Architecture Part 2 Exercises\SoftUniClone.Services\bin\Debug\netcoreapp2.1\SoftUniClone.Common.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\15.Architecture Part 2 Exercises\SoftUniClone.Services\bin\Debug\netcoreapp2.1\SoftUniClone.Data.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\15.Architecture Part 2 Exercises\SoftUniClone.Services\bin\Debug\netcoreapp2.1\SoftUniClone.Models.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\15.Architecture Part 2 Exercises\SoftUniClone.Services\obj\Debug\netcoreapp2.1\SoftUniClone.Services.csprojAssemblyReference.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\15.Architecture Part 2 Exercises\SoftUniClone.Services\obj\Debug\netcoreapp2.1\SoftUniClone.Services.csproj.CoreCompileInputs.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\15.Architecture Part 2 Exercises\SoftUniClone.Services\obj\Debug\netcoreapp2.1\SoftUniClone.Services.AssemblyInfoInputs.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\15.Architecture Part 2 Exercises\SoftUniClone.Services\obj\Debug\netcoreapp2.1\SoftUniClone.Services.AssemblyInfo.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\15.Architecture Part 2 Exercises\SoftUniClone.Services\obj\Debug\netcoreapp2.1\SoftUniClone.Services.csproj.CopyComplete
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\15.Architecture Part 2 Exercises\SoftUniClone.Services\obj\Debug\netcoreapp2.1\SoftUniClone.Services.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\15.Architecture Part 2 Exercises\SoftUniClone.Services\obj\Debug\netcoreapp2.1\SoftUniClone.Services.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\17.Advanced Topics Exercises\SoftUniClone.Services\bin\Debug\netcoreapp2.1\SoftUniClone.Services.deps.json
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\17.Advanced Topics Exercises\SoftUniClone.Services\bin\Debug\netcoreapp2.1\SoftUniClone.Services.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\17.Advanced Topics Exercises\SoftUniClone.Services\bin\Debug\netcoreapp2.1\SoftUniClone.Services.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\17.Advanced Topics Exercises\SoftUniClone.Services\bin\Debug\netcoreapp2.1\SoftUniClone.Common.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\17.Advanced Topics Exercises\SoftUniClone.Services\bin\Debug\netcoreapp2.1\SoftUniClone.Data.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\17.Advanced Topics Exercises\SoftUniClone.Services\bin\Debug\netcoreapp2.1\SoftUniClone.Models.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\17.Advanced Topics Exercises\SoftUniClone.Services\bin\Debug\netcoreapp2.1\SoftUniClone.Common.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\17.Advanced Topics Exercises\SoftUniClone.Services\bin\Debug\netcoreapp2.1\SoftUniClone.Data.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\17.Advanced Topics Exercises\SoftUniClone.Services\bin\Debug\netcoreapp2.1\SoftUniClone.Models.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\17.Advanced Topics Exercises\SoftUniClone.Services\obj\Debug\netcoreapp2.1\SoftUniClone.Services.csprojAssemblyReference.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\17.Advanced Topics Exercises\SoftUniClone.Services\obj\Debug\netcoreapp2.1\SoftUniClone.Services.csproj.CoreCompileInputs.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\17.Advanced Topics Exercises\SoftUniClone.Services\obj\Debug\netcoreapp2.1\SoftUniClone.Services.AssemblyInfoInputs.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\17.Advanced Topics Exercises\SoftUniClone.Services\obj\Debug\netcoreapp2.1\SoftUniClone.Services.AssemblyInfo.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\17.Advanced Topics Exercises\SoftUniClone.Services\obj\Debug\netcoreapp2.1\SoftUniClone.Services.csproj.CopyComplete
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\17.Advanced Topics Exercises\SoftUniClone.Services\obj\Debug\netcoreapp2.1\SoftUniClone.Services.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\17.Advanced Topics Exercises\SoftUniClone.Services\obj\Debug\netcoreapp2.1\SoftUniClone.Services.pdb

@@ -1,0 +1,16 @@
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\bin\Release\netcoreapp2.1\SoftUniClone.Services.deps.json
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\bin\Release\netcoreapp2.1\SoftUniClone.Services.dll
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\bin\Release\netcoreapp2.1\SoftUniClone.Services.pdb
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\bin\Release\netcoreapp2.1\SoftUniClone.Common.dll
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\bin\Release\netcoreapp2.1\SoftUniClone.Data.dll
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\bin\Release\netcoreapp2.1\SoftUniClone.Models.dll
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\bin\Release\netcoreapp2.1\SoftUniClone.Common.pdb
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\bin\Release\netcoreapp2.1\SoftUniClone.Data.pdb
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\bin\Release\netcoreapp2.1\SoftUniClone.Models.pdb
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\obj\Release\netcoreapp2.1\SoftUniClone.Services.csprojAssemblyReference.cache
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\obj\Release\netcoreapp2.1\SoftUniClone.Services.csproj.CoreCompileInputs.cache
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\obj\Release\netcoreapp2.1\SoftUniClone.Services.AssemblyInfoInputs.cache
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\obj\Release\netcoreapp2.1\SoftUniClone.Services.AssemblyInfo.cs
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\obj\Release\netcoreapp2.1\SoftUniClone.Services.csproj.CopyComplete
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\obj\Release\netcoreapp2.1\SoftUniClone.Services.dll
+C:\Users\Yordan\Desktop\C# MVC Frameworks\SoftUniClone\SoftUniClone.Services\obj\Release\netcoreapp2.1\SoftUniClone.Services.pdb
