@@ -11,7 +11,7 @@ namespace SoftUniClone.Web.Mapping
         {
             this.CreateMap<User, UserConciseViewModel>();
             this.CreateMap<User, UserDetailsViewModel>();
-            this.CreateMap<CourseCreationBindingModel, Course>(); //map the CourseBindingModel class to a Course class
+            this.CreateMap<CourseCreationBindingModel, Course>(); 
             this.CreateMap<Course, CourseConciseViewModel>();
             this.CreateMap<Course, CourseDetailsViewModel>();
             this.CreateMap<InstanceCreationBindingModel, CourseInstance>();
