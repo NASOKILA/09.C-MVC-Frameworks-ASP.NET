@@ -1,5 +1,4 @@
-﻿
-namespace FDMC.Data
+﻿namespace FDMC.Data
 {
     using FDMC.Models;
     using Microsoft.EntityFrameworkCore;

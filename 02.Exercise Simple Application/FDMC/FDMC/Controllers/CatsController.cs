@@ -74,7 +74,6 @@ namespace FDMC.Controllers
 
             Cat cat = this.Context.Cats.Find(id);
 
-            //we hass the CatBindingModel to the view because it does not need the Id
             var catModel = new CatBindingModel() {
                 Age = cat.Age,
                 Name = cat.Name,

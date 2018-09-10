@@ -10,7 +10,6 @@
 @{
     var db = new FdmcContext();
 
-    //we use the CatConciseViewModel to select only the Id and Name because we only need them.
     List<CatConciseViewModel> cats = db.Cats.Select(cat => new CatConciseViewModel()
     {
         Id = cat.Id,
