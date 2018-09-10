@@ -3,8 +3,7 @@
 namespace BookLibrary.Models
 {
     public class BorrowersBooks
-    {
-        
+    { 
         public int BorrowerId { get; set; }
 
         public Borrower Borrower { get; set; }

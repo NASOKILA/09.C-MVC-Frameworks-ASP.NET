@@ -5,7 +5,6 @@ namespace BookLibrary.Models
 {
     public class Director
     {
-
         public Director()
         {
             this.Movies = new List<Movie>();

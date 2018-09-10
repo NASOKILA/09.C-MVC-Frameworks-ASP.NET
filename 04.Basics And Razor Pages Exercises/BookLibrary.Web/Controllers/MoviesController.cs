@@ -32,16 +32,13 @@
 
             Director director = null;
 
-            //check if director exists
             bool directorExists = this.context.Directors.Any(d => d.Name == movieBindingModel.Director);
             if (directorExists)
             {
-                //director exists
                 director = this.context.Directors.FirstOrDefault(d => d.Name == movieBindingModel.Director);
             }
             else
             {
-                //create new director
                 director = new Director()
                 {
                     Name = movieBindingModel.Director,
@@ -121,11 +118,9 @@
 
                 if (context.Borrowers.Any(b => b.Name == movieBorrowBindingModel.Name && b.Address == movieBorrowBindingModel.Address))
                 {
-                    //if borroewr exists
                     borrower = context
                         .Borrowers
-                        .FirstOrDefault(b => b.Name == movieBorrowBindingModel.Name && b.Address == movieBorrowBindingModel.Address);
-                    
+                        .FirstOrDefault(b => b.Name == movieBorrowBindingModel.Name && b.Address == movieBorrowBindingModel.Address);   
                 }
                 else
                 {
@@ -150,15 +145,12 @@
                 };
 
 
-                //save borrowersMovies
                 context.BorrowersMovies.Add(borrowersMovies);
                 context.SaveChanges();
 
-                //update borrower
                 context.Borrowers.Update(borrower);
                 context.SaveChanges();
 
-                //update movie
                 movie.Status = "Borrowed";
                 movie.Borrowers.Add(borrowersMovies);
                 context.Movies.Update(movie);

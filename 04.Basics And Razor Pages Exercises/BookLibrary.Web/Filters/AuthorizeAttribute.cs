@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace BookLibrary.Web.Filters
 {
-
-    [AttributeUsage(AttributeTargets.Class | AttributeTargets.Method)] //We declare that we will use this filter only for classes and methods
+    [AttributeUsage(AttributeTargets.Class | AttributeTargets.Method)] 
     public class AuthorizeAttribute : Attribute, IPageFilter, IActionFilter
     {
         public void OnActionExecuted(ActionExecutedContext context)

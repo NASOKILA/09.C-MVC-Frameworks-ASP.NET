@@ -40,11 +40,9 @@
 
                 BookLibrary.Models.Author author = null;
 
-                //We check if the form is valid by using the attributes
                 if (!ModelState.IsValid)
                     return Page();
 
-                //id author exists
                 if (authors.Select(a => a.Name).Any(a => a == this.Author))
                 {
                     author = authors
@@ -82,7 +80,6 @@
                     a.Description == this.Description &&
                     a.CoverImage == this.ImageUrl);
 
-                ///Books/Details/{addedBook.Id}
                 return RedirectToPage("/Books/Details", new { id = addedBook.Id });
             }
         }

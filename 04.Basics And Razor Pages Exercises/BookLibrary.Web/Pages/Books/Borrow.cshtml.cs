@@ -40,7 +40,6 @@ namespace BookLibrary.Web.Pages.Books
 
                     if (context.Borrowers.Any(b => b.Name == this.Name && b.Address == this.Address))
                     {
-                        //if borroewr exists
                         Borrower borrower = context.Borrowers.FirstOrDefault(b => b.Name == this.Name && b.Address == this.Address);
 
                         BorrowersBooks borrowersBooks = new BorrowersBooks
@@ -89,7 +88,6 @@ namespace BookLibrary.Web.Pages.Books
 
                     return RedirectToPage("/Index");
                 }
-
             }
             return Page();
         }

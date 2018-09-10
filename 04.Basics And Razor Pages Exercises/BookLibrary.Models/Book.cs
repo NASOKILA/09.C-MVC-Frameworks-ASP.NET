@@ -5,7 +5,6 @@ namespace BookLibrary.Models
 {
     public class Book
     {
-
         public Book()
         {
             this.Borrowers = new List<BorrowersBooks>();

@@ -67,13 +67,10 @@ namespace BookLibrary.Data
             modelBuilder.Entity<BorrowersMovies>()
                 .HasKey(m => new { m.MovieId, m.BorrowerId });
 
-            //we create a unique Username
             modelBuilder.Entity<User>()
                 .HasIndex(u => u.Username)
                 .IsUnique();
                 
-
-
             base.OnModelCreating(modelBuilder);
         }
     }
