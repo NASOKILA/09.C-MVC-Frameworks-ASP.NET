@@ -1,0 +1,9 @@
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\04.Basics And Razor Pages Exercises\BookLibrary.Models\bin\Debug\netcoreapp2.1\BookLibrary.Models.deps.json
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\04.Basics And Razor Pages Exercises\BookLibrary.Models\bin\Debug\netcoreapp2.1\BookLibrary.Models.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\04.Basics And Razor Pages Exercises\BookLibrary.Models\bin\Debug\netcoreapp2.1\BookLibrary.Models.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\04.Basics And Razor Pages Exercises\BookLibrary.Models\obj\Debug\netcoreapp2.1\BookLibrary.Models.csprojAssemblyReference.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\04.Basics And Razor Pages Exercises\BookLibrary.Models\obj\Debug\netcoreapp2.1\BookLibrary.Models.csproj.CoreCompileInputs.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\04.Basics And Razor Pages Exercises\BookLibrary.Models\obj\Debug\netcoreapp2.1\BookLibrary.Models.AssemblyInfoInputs.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\04.Basics And Razor Pages Exercises\BookLibrary.Models\obj\Debug\netcoreapp2.1\BookLibrary.Models.AssemblyInfo.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\04.Basics And Razor Pages Exercises\BookLibrary.Models\obj\Debug\netcoreapp2.1\BookLibrary.Models.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\04.Basics And Razor Pages Exercises\BookLibrary.Models\obj\Debug\netcoreapp2.1\BookLibrary.Models.pdb
