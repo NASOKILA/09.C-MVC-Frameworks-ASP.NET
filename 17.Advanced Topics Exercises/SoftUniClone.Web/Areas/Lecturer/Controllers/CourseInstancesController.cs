@@ -27,12 +27,5 @@ namespace SoftUniClone.Web.Areas.Lecturer.Controllers
         {
             return View();
         }
-
-        //[HttpPost]
-        //public async Task<IActionResult> Edit(int id, CourseInstanceEditingModel model)
-        //{
-        //    await this.courseInstancesService.Edit(id, this.User);
-        //    return View();
-        //}
     }
 }
