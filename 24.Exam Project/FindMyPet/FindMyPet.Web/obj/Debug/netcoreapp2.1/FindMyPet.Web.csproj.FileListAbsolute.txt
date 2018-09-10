@@ -1,0 +1,241 @@
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\bin\Debug\netcoreapp2.1\FindMyPet.Web.deps.json
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\bin\Debug\netcoreapp2.1\FindMyPet.Web.runtimeconfig.json
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\bin\Debug\netcoreapp2.1\FindMyPet.Web.runtimeconfig.dev.json
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\bin\Debug\netcoreapp2.1\FindMyPet.Web.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\bin\Debug\netcoreapp2.1\FindMyPet.Web.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\bin\Debug\netcoreapp2.1\FindMyPet.Web.Views.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\bin\Debug\netcoreapp2.1\FindMyPet.Web.Views.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.csproj.CoreCompileInputs.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.RazorAssemblyInfo.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.RazorAssemblyInfo.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.AssemblyInfoInputs.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.AssemblyInfo.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.TagHelpers.input.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.TagHelpers.output.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.RazorCoreGenerate.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.Views.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.csproj.CopyComplete
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.csprojAssemblyReference.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\bin\Debug\netcoreapp2.1\FindMyPet.Data.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\bin\Debug\netcoreapp2.1\FindMyPet.Data.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\bin\Debug\netcoreapp2.1\FindMyPet.Models.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\bin\Debug\netcoreapp2.1\FindMyPet.Models.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Index.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewStart.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\About.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Contact.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Pets\All.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Pets\Details.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_PetPartialView.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Pets\Edit.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Pages\PetsPages\Create.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\Error.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_PetPartialView.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Pages\PetsPages\Edit.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Pages\PetsPages\Delete.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Users\Profile.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Users\MyProfile.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Pets\PetFound.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Pets\PetFoundCompleted.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Pets\All.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Pets\Details.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Pets\Edit.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Pets\PetFound.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Pets\PetFoundCompleted.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\Error.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_PetPartialView.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Users\MyProfile.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Users\Profile.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Pages\PetsPages\Create.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Pages\PetsPages\Delete.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Pages\PetsPages\Edit.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Pages\Shared\Error.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Pages\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Pages\Shared\_PetPartialView.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\bin\Debug\netcoreapp2.1\FindMyPet.Web.deps.json
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\bin\Debug\netcoreapp2.1\FindMyPet.Web.runtimeconfig.json
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\bin\Debug\netcoreapp2.1\FindMyPet.Web.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\bin\Debug\netcoreapp2.1\FindMyPet.Web.dll
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\bin\Debug\netcoreapp2.1\FindMyPet.Web.pdb
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\bin\Debug\netcoreapp2.1\FindMyPet.Web.Views.dll
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\bin\Debug\netcoreapp2.1\FindMyPet.Web.Views.pdb
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\bin\Debug\netcoreapp2.1\FindMyPet.Data.dll
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\bin\Debug\netcoreapp2.1\FindMyPet.Models.dll
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\bin\Debug\netcoreapp2.1\FindMyPet.Data.pdb
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\bin\Debug\netcoreapp2.1\FindMyPet.Models.pdb
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.RazorAssemblyInfo.cache
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.RazorAssemblyInfo.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.AssemblyInfo.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.TagHelpers.input.cache
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.TagHelpers.output.cache
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.RazorCoreGenerate.cache
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Pages\PetsPages\Create.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Pages\PetsPages\Delete.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Pages\PetsPages\Edit.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Pages\Shared\Error.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Pages\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Pages\Shared\_PetPartialView.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\About.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Contact.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Index.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Pets\All.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Pets\Details.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Pets\PetFound.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Pets\PetFoundCompleted.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\Error.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_PetPartialView.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Users\MyProfile.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Users\Profile.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewStart.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Pages\PetsPages\Create.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Pages\PetsPages\Delete.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Pages\PetsPages\Edit.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\Error.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_PetPartialView.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Pets\All.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Pets\Details.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Pets\PetFound.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Pets\PetFoundCompleted.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_PetPartialView.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Users\MyProfile.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\Users\Profile.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.Views.pdb
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.csproj.CopyComplete
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.dll
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\FindMyPet.Web.pdb
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Pages\PetsPages\AllUsers.g.cshtml.cs

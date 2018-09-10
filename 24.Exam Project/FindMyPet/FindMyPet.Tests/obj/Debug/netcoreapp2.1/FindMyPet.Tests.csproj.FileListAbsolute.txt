@@ -1,0 +1,46 @@
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\FindMyPet.Tests.deps.json
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\FindMyPet.Tests.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\FindMyPet.Tests.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Tests\obj\Debug\netcoreapp2.1\FindMyPet.Tests.csprojAssemblyReference.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Tests\obj\Debug\netcoreapp2.1\FindMyPet.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Tests\obj\Debug\netcoreapp2.1\FindMyPet.Tests.AssemblyInfoInputs.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Tests\obj\Debug\netcoreapp2.1\FindMyPet.Tests.AssemblyInfo.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Tests\obj\Debug\netcoreapp2.1\FindMyPet.Tests.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Tests\obj\Debug\netcoreapp2.1\FindMyPet.Tests.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\FindMyPet.Tests.runtimeconfig.json
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\FindMyPet.Tests.runtimeconfig.dev.json
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\FindMyPet.Web.Views.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\FindMyPet.Web.Views.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\FindMyPet.Data.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\FindMyPet.Models.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\FindMyPet.Web.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\FindMyPet.Data.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\FindMyPet.Web.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\FindMyPet.Models.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Tests\obj\Debug\netcoreapp2.1\FindMyPet.Tests.csproj.CopyComplete
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\FindMyPet.Web.Views.dll
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\FindMyPet.Web.Views.pdb
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\FindMyPet.Tests.deps.json
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\FindMyPet.Tests.runtimeconfig.json
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\FindMyPet.Tests.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\FindMyPet.Tests.dll
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\FindMyPet.Tests.pdb
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\FindMyPet.Data.dll
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\FindMyPet.Models.dll
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\FindMyPet.Web.dll
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\FindMyPet.Data.pdb
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\FindMyPet.Web.pdb
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Tests\bin\Debug\netcoreapp2.1\FindMyPet.Models.pdb
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Tests\obj\Debug\netcoreapp2.1\FindMyPet.Tests.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Tests\obj\Debug\netcoreapp2.1\FindMyPet.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Tests\obj\Debug\netcoreapp2.1\FindMyPet.Tests.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Tests\obj\Debug\netcoreapp2.1\FindMyPet.Tests.AssemblyInfo.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Tests\obj\Debug\netcoreapp2.1\FindMyPet.Tests.csproj.CopyComplete
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Tests\obj\Debug\netcoreapp2.1\FindMyPet.Tests.dll
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Tests\obj\Debug\netcoreapp2.1\FindMyPet.Tests.pdb

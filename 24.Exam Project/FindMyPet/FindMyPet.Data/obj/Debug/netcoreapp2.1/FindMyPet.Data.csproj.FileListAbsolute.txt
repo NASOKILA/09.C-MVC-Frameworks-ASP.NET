@@ -1,0 +1,28 @@
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Data\bin\Debug\netcoreapp2.1\FindMyPet.Data.deps.json
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Data\bin\Debug\netcoreapp2.1\FindMyPet.Data.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Data\obj\Debug\netcoreapp2.1\FindMyPet.Data.csprojAssemblyReference.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Data\obj\Debug\netcoreapp2.1\FindMyPet.Data.csproj.CoreCompileInputs.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Data\obj\Debug\netcoreapp2.1\FindMyPet.Data.AssemblyInfoInputs.cache
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Data\obj\Debug\netcoreapp2.1\FindMyPet.Data.AssemblyInfo.cs
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Data\bin\Debug\netcoreapp2.1\FindMyPet.Data.runtimeconfig.json
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Data\bin\Debug\netcoreapp2.1\FindMyPet.Data.runtimeconfig.dev.json
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Data\bin\Debug\netcoreapp2.1\FindMyPet.Data.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Data\obj\Debug\netcoreapp2.1\FindMyPet.Data.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Data\obj\Debug\netcoreapp2.1\FindMyPet.Data.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Data\bin\Debug\netcoreapp2.1\FindMyPet.Models.dll
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Data\bin\Debug\netcoreapp2.1\FindMyPet.Models.pdb
+C:\Users\Asus\SoftUni\9.C# Web\C# Web MVC Frameworks ASP.NET\24.Exam Project\FindMyPet\FindMyPet.Data\obj\Debug\netcoreapp2.1\FindMyPet.Data.csproj.CopyComplete
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Data\bin\Debug\netcoreapp2.1\FindMyPet.Data.deps.json
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Data\bin\Debug\netcoreapp2.1\FindMyPet.Data.runtimeconfig.json
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Data\bin\Debug\netcoreapp2.1\FindMyPet.Data.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Data\bin\Debug\netcoreapp2.1\FindMyPet.Data.dll
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Data\bin\Debug\netcoreapp2.1\FindMyPet.Data.pdb
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Data\bin\Debug\netcoreapp2.1\FindMyPet.Models.dll
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Data\bin\Debug\netcoreapp2.1\FindMyPet.Models.pdb
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Data\obj\Debug\netcoreapp2.1\FindMyPet.Data.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Data\obj\Debug\netcoreapp2.1\FindMyPet.Data.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Data\obj\Debug\netcoreapp2.1\FindMyPet.Data.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Data\obj\Debug\netcoreapp2.1\FindMyPet.Data.AssemblyInfo.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Data\obj\Debug\netcoreapp2.1\FindMyPet.Data.csproj.CopyComplete
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Data\obj\Debug\netcoreapp2.1\FindMyPet.Data.dll
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Data\obj\Debug\netcoreapp2.1\FindMyPet.Data.pdb

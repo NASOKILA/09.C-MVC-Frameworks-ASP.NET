@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Models\bin\Release\netcoreapp2.1\FindMyPet.Models.deps.json
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Models\bin\Release\netcoreapp2.1\FindMyPet.Models.dll
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Models\bin\Release\netcoreapp2.1\FindMyPet.Models.pdb
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Models\obj\Release\netcoreapp2.1\FindMyPet.Models.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Models\obj\Release\netcoreapp2.1\FindMyPet.Models.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Models\obj\Release\netcoreapp2.1\FindMyPet.Models.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Models\obj\Release\netcoreapp2.1\FindMyPet.Models.AssemblyInfo.cs
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Models\obj\Release\netcoreapp2.1\FindMyPet.Models.dll
+C:\Users\Asus\Desktop\FindMyPet\FindMyPet\FindMyPet.Models\obj\Release\netcoreapp2.1\FindMyPet.Models.pdb
