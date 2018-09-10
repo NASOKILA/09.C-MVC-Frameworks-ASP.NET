@@ -12,21 +12,13 @@ namespace SumNumbers.Controllers
     {
         public IActionResult Index()
         {
-
-            //HttpContext holds alot of usefull information.
             var path = this.HttpContext.Request.Path.Value;
-
-            //With ViewData and ViewBag we can pass data to the view.   
-            this.ViewData["NewTitle"] = "NASKO TITLE";
-            
-            
-
+            this.ViewData["NewTitle"] = "NASKO TITLE";   
             return View();
         }
 
         public IActionResult About()
         {
-            
             this.TempData["Message"] = "MESSAGE KEPT AFTER REDIRECT !";
             return RedirectToAction("Index", "Home");
         }
@@ -34,7 +26,6 @@ namespace SumNumbers.Controllers
         public IActionResult Contact()
         {
             ViewData["Message"] = "Your contact page.";
-
             return View();
         }
 
