@@ -63,8 +63,7 @@ namespace FindMyPet.Web.Controllers
             Like likeToRemove = comment.Likes.FirstOrDefault(l => l.Creator.Email == this.User.Identity.Name);
             
             this.context.Likes.Remove(likeToRemove);
-            this.context.SaveChanges();
-            
+            this.context.SaveChanges();   
         }
     }
 }

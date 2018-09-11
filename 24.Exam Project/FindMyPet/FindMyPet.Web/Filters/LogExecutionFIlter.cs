@@ -35,7 +35,6 @@ namespace FindMyPet.Web.Filters
 
         public void OnPageHandlerSelected(PageHandlerSelectedContext context)
         {
-            //dont need to implement this
         }
 
         private void LogEnteringMessage(string httpMethod, string actionName, bool isModelValid)

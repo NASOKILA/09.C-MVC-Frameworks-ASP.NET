@@ -5,7 +5,6 @@ namespace FindMyPet.Models
 {
     public class Message
     {
-
         public Message()
         {
             this.Likes = new List<Like>();

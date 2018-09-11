@@ -9,7 +9,6 @@ namespace FindMyPet.Models
 {
     public class User : IdentityUser
     {
-
         public User()
         {
             this.MessagesSent = new List<Message>();

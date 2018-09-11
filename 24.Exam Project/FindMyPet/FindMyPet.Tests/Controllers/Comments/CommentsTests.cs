@@ -28,15 +28,12 @@ namespace FindMyPet.Tests.Controllers.CommentsController
         [TestMethod]
         public void CommentsCount_ShouldReturnAPetCommentsCount()
         {
-            //Arrange
             var pets = this.DbContext.Pets.Include(p => p.Comments).ToList();
             var petOne = pets[0];
             
-            //Act - do something
             var comments = petOne.Comments.Count;
             var comments2 = petOne.Comments.Count;
             
-            //Assert - check solution
             Assert.AreEqual(comments, comments2);
         }
 
@@ -44,15 +41,12 @@ namespace FindMyPet.Tests.Controllers.CommentsController
         [TestMethod]
         public void AddComment_ShouldReturnOneMoreComment()
         {
-            //Arrange
             var pets = this.DbContext.Pets.Include(p => p.Comments).ToList();
             var petOne = pets[0];
 
             var comments = petOne.Comments;
             var commentsCount = petOne.Comments.Count();
 
-
-            //Act - do something
             comments.Add(new Comment()
             {
                 Content = "New Comment",
@@ -63,31 +57,23 @@ namespace FindMyPet.Tests.Controllers.CommentsController
 
             var commentsNewCount = petOne.Comments.Count();
 
-
-            //Assert - check solution
             Assert.AreEqual(commentsCount, commentsNewCount - 1);
         }
         
         [TestMethod]
         public void RemoveComment_ShouldReturnOneLessComment()
         {
-            //Arrange
             var pets = this.DbContext.Pets.Include(p => p.Comments).ToList();
             var petOne = pets[0];
 
             var comments = petOne.Comments;
             var commentsCount = petOne.Comments.Count();
 
-
-            //Act - do something
             comments.Remove(comments.Last());
 
             var commentsNewCount = petOne.Comments.Count();
 
-
-            //Assert - check solution
             Assert.AreEqual(commentsCount, commentsNewCount + 1);
         }
-
     }
 }

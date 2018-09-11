@@ -144,8 +144,7 @@ namespace FindMyPet.Web.Admin.Pages.PetsPages
                 context.Pets.Update(pet);
                 context.SaveChanges();
 
-                return RedirectToAction(StaticConstants.Details, StaticConstants.Pets, new { Id = pet.Id });
-            
+                return RedirectToAction(StaticConstants.Details, StaticConstants.Pets, new { Id = pet.Id });     
         }
     }
 }

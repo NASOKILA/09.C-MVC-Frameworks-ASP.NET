@@ -164,8 +164,6 @@ namespace FindMyPet.Web.Areas.Admin.Controllers
             ViewData[StaticConstants.LoggedIn] = isLoggedIn.ToString();
             ViewData[StaticConstants.IsAdmin] = isAdmin.ToString();
 
-
-            //disable User
             User user = this.context.Users.FirstOrDefault(u => u.Id == id);
 
             DateTime lockoutDate = DateTime.Now;

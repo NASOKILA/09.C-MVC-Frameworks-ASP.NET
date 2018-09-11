@@ -19,7 +19,6 @@ namespace FindMyPet.Tests.Controllers.PetsController
         [TestInitialize]
         public void BeforeEachTest()
         {
-            //we get the context from this mock class that we just created.
             this.DbContext = MockDbContext.GetContext();
         }
 
@@ -31,14 +30,10 @@ namespace FindMyPet.Tests.Controllers.PetsController
         [TestMethod] 
         public void GetAllPetsCount_ShouldReturnAllPetsCount()
         {
-            //Arrange
             var pets = this.DbContext.Pets.ToList();
-            
-            //Act - do something
             var petsCount = pets.Count;
             var petsCount2 = pets.Count;
 
-            //Assert - check solution
             Assert.AreEqual(petsCount, petsCount2);
         }
 
@@ -46,13 +41,10 @@ namespace FindMyPet.Tests.Controllers.PetsController
         [TestMethod]
         public void AddingPets_ShouldAddOnePet()
         {
-
-            //Arrange
             var pets = this.DbContext.Pets.ToList();
             var petsOldCount = pets.Count;
 
 
-            //Act - do something
             pets.Add(new Pet()
             {
                 Type = "Dog",
@@ -66,9 +58,8 @@ namespace FindMyPet.Tests.Controllers.PetsController
 
             });
 
-            var petsNewCount = pets.Count;;
+            var petsNewCount = pets.Count;
 
-            //Assert - check solution
             Assert.AreEqual(petsOldCount, petsNewCount-1);
         }
 
@@ -76,16 +67,12 @@ namespace FindMyPet.Tests.Controllers.PetsController
         [TestMethod]
         public void RemovePet_ShouldremovePet()
         {
-
-            //Arrange
             var pets = this.DbContext.Pets.ToList();
             var petsOldCount = pets.Count;
             
-            //Act - do something
             pets.Remove(pets.Last());
             var petsNewCount = pets.ToList().Count;
-            
-            //Assert - check solution
+             q
             Assert.AreEqual(petsOldCount, petsNewCount + 1);
         }
     }

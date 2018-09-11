@@ -21,7 +21,6 @@ namespace FindMyPet.Web.Views.Pages.Pets
             this.context = context;
         }
 
-
         private const int zero = 0;
         private const int three = 3;
         private const int oneHundred = 100;

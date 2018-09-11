@@ -128,8 +128,7 @@ namespace FindMyPet.Web.Admin.Pages.PetsPages
                 context.Pets.Remove(pet);
                 context.SaveChanges();
 
-                return RedirectToAction(StaticConstants.All, StaticConstants.AdminRole);
-            
+                return RedirectToAction(StaticConstants.All, StaticConstants.AdminRole);      
         }
     }
 }
