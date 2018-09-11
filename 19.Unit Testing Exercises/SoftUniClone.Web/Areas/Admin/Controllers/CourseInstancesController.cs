@@ -36,14 +36,13 @@ namespace SoftUniClone.Web.Areas.Admin.Controllers
             }
 
             int instanceId = await this.courseInstancesService.CreateInstanceAsync(model);
-            // TODO: redirect to details
+            
             return RedirectToAction("Details", new { id = instanceId });
         }
 
         [HttpGet]
         public async Task<IActionResult> Details(int id)
         {
-            // TODO: Implement this
             throw new NotImplementedException();
         }
     }

@@ -30,6 +30,5 @@ namespace SoftUniClone.Models
 
         public ICollection<Resource> Resources { get; set; }
 
-        // TODO: Homework descriptor
     }
 }

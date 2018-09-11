@@ -4,15 +4,12 @@ using Microsoft.AspNetCore.Mvc;
 using SoftUniClone.Models;
 using SoftUniClone.Web.Models;
 
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-
 namespace SoftUniClone.Web.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
     public class ApiCoursesController : Controller
     {
-
         private readonly List<Course> Courses;
 
         public ApiCoursesController()
@@ -24,20 +21,14 @@ namespace SoftUniClone.Web.Controllers
                new Course(){  Id = 3, Name = "Course 3"},
                new Course(){  Id = 4, Name = "Course 4"},
             };
-
         }
 
-
-        // GET: api/<controller>
         [HttpGet("")]
         public IActionResult GetAllCourses()
         {
-            
-            //return alwais in json format
-            return Ok(this.Courses); //200 
+            return Ok(this.Courses); 
         }
 
-        // GET api/<controller>/5
         [HttpGet("{id}")]
         public IActionResult GetCourseById(int id)
         {
@@ -46,11 +37,10 @@ namespace SoftUniClone.Web.Controllers
             if(course == null)
                 return NotFound(new { Message = "Course not found with id " + id + "."}); // 404
 
-            return Ok(course); //OK
+            return Ok(course); 
             
         }
 
-        // POST api/<controller>
         [HttpPost("")]
         public IActionResult CreateCourse([FromBody]CourseCreationModel course)
         {
@@ -66,10 +56,9 @@ namespace SoftUniClone.Web.Controllers
 
             this.Courses.Add(courseAdd);
 
-            return Created("", course); //201 Created    and in the response we can see the course because we passed it.
+            return Created("", course); 
         }
 
-        // PUT api/<controller>/5
         [HttpPut("{id}")]
         public IActionResult UpdateCourse(int id, [FromBody]CourseCreationModel course)
         {
@@ -93,7 +82,6 @@ namespace SoftUniClone.Web.Controllers
             return NotFound();
         }
 
-        // DELETE api/<controller>/5
         [HttpDelete("{id}")]
         public IActionResult DeleteCourse(int id)
         {
