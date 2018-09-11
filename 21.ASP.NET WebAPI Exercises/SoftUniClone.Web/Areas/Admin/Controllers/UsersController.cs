@@ -33,17 +33,12 @@ namespace SoftUniClone.Web.Areas.Admin.Controllers
                 .Where(u => u.Id != currentUser.Id)
                 .ToList();
 
-            // TODO: Fill in "Is lecturer" -> whether user is in role "Lecturer"?
-            // TODO: Is admin
-            // If lecturer -> hide button "Make lecturer"
-            // If administrator -> only "Details"
             var model = this.mapper.Map<IEnumerable<UserConciseViewModel>>(users);
             return View(model);
         }
 
         public async Task<IActionResult> Details(string id)
         {
-            // TODO: If administrator -> disable editing
             var currentUser = await this.userManager.GetUserAsync(this.User);
             if (id == currentUser.Id)
             {
